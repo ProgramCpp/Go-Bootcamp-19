@@ -1,0 +1,15 @@
+/Users/janania/workspace/bootcamp19/
+
+# To activate this environment, use:
+# > conda activate ds-bootcamp
+#
+# To deactivate an active environment, use:
+# > conda deactivate
+
+
+One- hot encoding: Another Example: Suppose you have ‘flower’ feature which can take values ‘daffodil’, ‘lily’, and ‘rose’. One hot encoding converts ‘flower’ feature to three features, ‘is_daffodil’, ‘is_lily’, and ‘is_rose’ which all are binary.
+
+
+
+
+
